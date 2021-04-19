@@ -1,3 +1,6 @@
+# Source
+# https://forums.developer.nvidia.com/t/how-to-setup-tigervnc-on-jetson-nano/174244
+
 # Install Tiger VNC itself:
 apt install tigervnc-standalone-server
 
